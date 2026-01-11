@@ -2,6 +2,10 @@
 
 A responsive **Zerodha (Kite) frontend clone** built using **React.js**, replicating the UI, layout, and user experience of India’s leading stock trading platform. This project focuses on modern component-based architecture, clean UI design, and frontend best practices.
 
+<img width="1916" height="1021" alt="Screenshot 2026-01-11 131356" src="https://github.com/user-attachments/assets/34314885-c6c0-4fde-afd6-97b445e60111" />
+<img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/868aad7d-4216-4fe7-9356-c9c998e1e43d" />
+
+
 ---
 
 ## 📌 Features
